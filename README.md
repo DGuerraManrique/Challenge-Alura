@@ -1,48 +1,47 @@
 Encriptador de Texto
+Esta herramienta web te permite encriptar y desencriptar mensajes de manera sencilla utilizando un conjunto específico de reglas de sustitución.
 
-Descripción: Esta aplicación es un encriptador de texto simple que permite a los usuarios encriptar y desencriptar mensajes utilizando un conjunto de reglas específicas. 
-Es una herramienta útil para quienes desean enviar mensajes de forma segura o simplemente experimentar con la encriptación de texto.
+🚀 Funcionalidades
+Encriptar Texto: Convierte tu mensaje en un formato encriptado según las siguientes reglas:
 
-Tecnologías Utilizadas:
+e ➡️ enter
+i ➡️ imes
+a ➡️ ai
+o ➡️ ober
+u ➡️ ufat
 
-HTML5: Estructura y contenido de la aplicación.
-CSS3: Estilos y diseño de la interfaz.
-JavaScript: Lógica de encriptación, desencriptación, y manejo de errores.
+Desencriptar Texto: Reconvierte el texto encriptado a su forma original.
 
-Funcionalidades
+Copiar al Portapapeles: Copia rápidamente el texto encriptado o desencriptado para usarlo donde lo necesites.
 
-Encriptado de Texto
-Descripción: La aplicación convierte el texto ingresado por el usuario en un formato encriptado utilizando las siguientes reglas:
+Validación de Texto: Asegura que solo se ingresen letras minúsculas sin acentos ni caracteres especiales.
 
-e se convierte en enter
-i se convierte en imes
-a se convierte en ai
-o se convierte en ober
-u se convierte en ufat
-Uso: El usuario debe ingresar un texto en la caja de texto provista y hacer clic en el botón "Encriptar". El texto encriptado aparecerá en la sección de resultados.
+Interfaz Responsiva: Diseño adaptable para que disfrutes de la aplicación tanto en dispositivos móviles como en escritorio.
 
-Desencriptado de Texto
-Descripción: La aplicación puede revertir un texto encriptado a su formato original utilizando las reglas de encriptación mencionadas anteriormente.
+🛠️ Cómo Usar
+Encriptar: Ingresa el texto que deseas encriptar en el área de texto y haz clic en "Encriptar". El resultado aparecerá en el cuadro de texto de resultados.
 
-Uso: El usuario debe ingresar un texto encriptado en la caja de texto y hacer clic en el botón "Desencriptar". El texto desencriptado aparecerá en la sección de resultados.
+Desencriptar: Ingresa un texto encriptado y haz clic en "Desencriptar" para recuperar el mensaje original.
 
-Copiado al Portapapeles
-Descripción: Una vez que un mensaje ha sido encriptado o desencriptado, el usuario puede copiar el texto resultante al portapapeles.
-Uso: El usuario debe hacer clic en el botón "Copiar al Portapapeles" después de encriptar o desencriptar el texto. Un mensaje confirmará que el texto ha sido copiado.
+Copiar: Luego de encriptar o desencriptar, haz clic en "Copiar al Portapapeles" para copiar el resultado y usarlo en cualquier lugar.
 
-Validación de Texto
-Descripción: La aplicación valida que el texto ingresado solo contenga letras minúsculas y espacios, sin acentos ni caracteres especiales.
-Manejo de Errores: Si el texto no cumple con las reglas de validación, se mostrará un mensaje de error en pantalla, explicando que solo se permiten letras minúsculas sin acentos.
+📦 Instalación
+Sigue estos sencillos pasos para clonar y ejecutar la aplicación localmente:
 
-Diseño Responsivo
-Descripción: La aplicación es completamente responsiva, lo que significa que se adapta a diferentes tamaños de pantalla, ofreciendo una experiencia de usuario optimizada tanto en dispositivos móviles como en computadoras de escritorio.
+Clona este repositorio:
 
-Uso:
-Ingresa el texto que deseas encriptar en el área de texto principal.
-Haz clic en "Encriptar" para convertir el texto.
-El texto encriptado aparecerá en la sección de resultados.
-Si deseas revertir el proceso, haz clic en "Desencriptar".
-Para copiar el texto encriptado o desencriptado, haz clic en "Copiar al Portapapeles".
+bash
+Copiar código
+git clone (https://dguerramanrique.github.io/Challenge-Alura/)
+Navega al directorio del proyecto:
 
-Autor:
+📚 Tecnologías Utilizadas
+HTML5: Estructura de la aplicación.
+CSS3: Estilos y diseño.
+JavaScript: Lógica de encriptación, desencriptación y manejo de errores.
+
+🤝 Contribuciones
+Si deseas mejorar esta aplicación o agregar nuevas funcionalidades, ¡eres bienvenido a contribuir! Puedes abrir un issue o hacer un pull request en este repositorio.
+
+🧑‍💻 Autor
 Derlin Guerra
