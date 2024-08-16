@@ -32,7 +32,7 @@ Clona este repositorio:
 
 bash
 Copiar código
-git clone (https://dguerramanrique.github.io/Challenge-Alura/)
+git clone (https://github.com/DGuerraManrique/Challenge-Alura.git))
 Navega al directorio del proyecto:
 
 📚 Tecnologías Utilizadas
